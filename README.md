@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **My journey as an IT undergraduate at SLIIT**
 
-- 📫 How to reach me **IT2361000@my.sliit.lk**
+- 📫 How to reach me **Shalinda1801@gmail.com**
 
 - 📄 Know about my experiences [currently pursuing BSc (Hons) in Information Technology at SLIIT](currently pursuing BSc (Hons) in Information Technology at SLIIT)
 
