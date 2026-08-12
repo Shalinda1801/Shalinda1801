@@ -1,51 +1,58 @@
-````md
-<!-- ========================= HEADER ========================= -->
+<!-- ====================================================== -->
+<!--                KAVINDU SHALINDA README                 -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-# 👋 Hi, I'm Kavindu Shalinda Rupasinghe
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0ea5e9,100:6366f1&text=Kavindu%20Shalinda%20Rupasinghe&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Information%20Technology%20Undergraduate%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18"/>
 
-### 💻 Information Technology Undergraduate | Full-Stack Developer
-
-<p>
-  Passionate about building modern, scalable and user-friendly software solutions.
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Java+%7C+Spring+Boot+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Kotlin+%7C+Android+Development;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;Java+%26+Spring+Boot+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Android+Development+with+Kotlin;Building+Real-World+Software+Solutions" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/Shalinda1801">
-  <img src="https://komarev.com/ghpvc/?username=Shalinda1801&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Shalinda1801&label=PROFILE+VIEWS&color=0284c7&style=for-the-badge"/>
 </a>
+
+<img src="https://img.shields.io/github/followers/Shalinda1801?label=FOLLOWERS&style=for-the-badge&color=6366f1"/>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- ====================================================== -->
+<!--                       ABOUT                            -->
+<!-- ====================================================== -->
 
-🎓 I'm currently pursuing a **BSc (Hons) in Information Technology at SLIIT**
+<h2 align="center">👨‍💻 About Me</h2>
 
-💻 I'm passionate about **Full-Stack Web Development and Software Engineering**
+<div align="center">
 
-🌱 I'm continuously improving my knowledge in **Java, Spring Boot, MERN Stack, Python, Kotlin and modern web technologies**
+🎓 **BSc (Hons) Information Technology Undergraduate at SLIIT**
 
-🚀 I enjoy building **real-world full-stack applications** and learning how modern software systems are designed
+💻 Focused on **Full-Stack Development & Software Engineering**
 
-🧠 Interested in **Object-Oriented Programming, REST APIs, Database Design, Cloud Deployment and Software Architecture**
+🚀 I enjoy creating **modern, scalable and user-friendly applications**
 
-🤝 I'm interested in collaborating on **software development and open-source projects**
+🌱 Currently improving my skills in **Java, Spring Boot, MERN Stack, Python & Kotlin**
 
-💬 Ask me about **Java, MERN Stack, React, Spring Boot, databases or my journey as an IT undergraduate**
+🧠 Interested in **REST APIs, OOP, Database Design, Cloud Deployment & Software Architecture**
 
-⚡ Fun fact: **You can call me Shali 😄**
+🤝 Open to **collaborative projects, internships and open-source development**
 
----
+⚡ You can call me **Shali**
 
-## 🛠️ Tech Stack
+</div>
 
-### 👨‍💻 Programming Languages
+<br/>
+
+<!-- ====================================================== -->
+<!--                    TECHNOLOGIES                        -->
+<!-- ====================================================== -->
+
+<h2 align="center">⚡ Technology Stack</h2>
+
+<h3 align="center">Programming Languages</h3>
 
 <div align="center">
 
@@ -53,7 +60,9 @@
 
 </div>
 
-### 🌐 Frontend Development
+<br/>
+
+<h3 align="center">Frontend Development</h3>
 
 <div align="center">
 
@@ -61,7 +70,9 @@
 
 </div>
 
-### ⚙️ Backend Development
+<br/>
+
+<h3 align="center">Backend Development</h3>
 
 <div align="center">
 
@@ -69,7 +80,9 @@
 
 </div>
 
-### 🗄️ Databases
+<br/>
+
+<h3 align="center">Databases</h3>
 
 <div align="center">
 
@@ -77,7 +90,9 @@
 
 </div>
 
-### 📱 Mobile Development
+<br/>
+
+<h3 align="center">Mobile Development</h3>
 
 <div align="center">
 
@@ -85,62 +100,98 @@
 
 </div>
 
-### 🎨 UI / Styling
+<br/>
+
+<h3 align="center">Development Tools</h3>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,bootstrap,tailwind,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,figma&theme=dark" />
 
 </div>
 
-### 🔧 Tools & Technologies
+<br/>
+
+<!-- ====================================================== -->
+<!--                   DEVELOPMENT FOCUS                    -->
+<!-- ====================================================== -->
+
+<h2 align="center">🚀 Development Focus</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea&theme=dark" />
+<table>
+<tr>
+
+<td align="center" width="220">
+<h3>🌐 Full Stack</h3>
+React<br/>
+Node.js<br/>
+Express.js<br/>
+MongoDB
+</td>
+
+<td align="center" width="220">
+<h3>☕ Java</h3>
+Java<br/>
+Spring Boot<br/>
+OOP<br/>
+REST APIs
+</td>
+
+<td align="center" width="220">
+<h3>📱 Mobile</h3>
+Kotlin<br/>
+Android Studio<br/>
+MVVM<br/>
+Mobile UI
+</td>
+
+<td align="center" width="220">
+<h3>🗄️ Database</h3>
+MySQL<br/>
+PostgreSQL<br/>
+MongoDB<br/>
+Database Design
+</td>
+
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## 🚀 What I'm Currently Working On
+<!-- ====================================================== -->
+<!--                    FEATURED WORK                       -->
+<!-- ====================================================== -->
 
-```text
-🌐 Full-Stack Web Applications
-☕ Java & Spring Boot Development
-⚛️ React Development
-🟢 Node.js & Express REST APIs
-🍃 MongoDB Database Applications
-📱 Android Development with Kotlin
-🗄️ MySQL & PostgreSQL
-🐳 Docker and Application Deployment
-````
-
----
-
-## 💡 Areas of Interest
+<h2 align="center">💼 What I Build</h2>
 
 <div align="center">
 
-| 💻 Development         | 🧠 Software Engineering | 🚀 Technologies |
-| ---------------------- | ----------------------- | --------------- |
-| Full-Stack Development | OOP                     | MERN Stack      |
-| Web Applications       | MVC / MVVM              | Spring Boot     |
-| Android Development    | REST API Design         | React           |
-| Backend Development    | Database Design         | Node.js         |
-| Responsive UI Design   | Software Architecture   | Docker          |
+| 🌐 Web Applications | ⚙️ Backend Systems | 📱 Mobile Apps |
+| :---: | :---: | :---: |
+| Responsive Interfaces | RESTful APIs | Android Applications |
+| React Applications | Spring Boot Services | Kotlin Development |
+| MERN Applications | Authentication | MVVM Architecture |
+| Modern UI/UX | Database Integration | Mobile UI/UX |
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Analytics
+<!-- ====================================================== -->
+<!--                    GITHUB STATS                        -->
+<!-- ====================================================== -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shalinda1801&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shalinda1801&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalinda1801&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalinda1801&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
 
 </div>
 
@@ -148,72 +199,76 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Shalinda1801&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Shalinda1801&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
----
+<br/>
 
-## 📈 Contribution Activity
+<!-- ====================================================== -->
+<!--                  ACTIVITY GRAPH                        -->
+<!-- ====================================================== -->
+
+<h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shalinda1801&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shalinda1801&bg_color=0d1117&color=38bdf8&line=6366f1&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Snake
+<!-- ====================================================== -->
+<!--                     CURRENTLY                          -->
+<!-- ====================================================== -->
+
+<h2 align="center">🎯 Currently Exploring</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shalinda1801/Shalinda1801/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MERN_Stack-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Deployment-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </div>
 
----
+<br/>
 
-## 🤝 Connect With Me
+<!-- ====================================================== -->
+<!--                       CONTACT                          -->
+<!-- ====================================================== -->
+
+<h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
+
+<p>
+Interested in collaborating, discussing a project, or just talking about technology?
+</p>
 
 <a href="mailto:Shalinda1801@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Shalinda1801%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Shalinda1801-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/94778637492">
-  <img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Shalinda1801">
-  <img src="https://img.shields.io/badge/GitHub-Shalinda1801-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Shalinda1801-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
----
-
-## 📬 Contact
+<br/>
 
 <div align="center">
 
-### Have a project idea or want to collaborate?
-
-I'm always interested in learning, building new things and connecting with other developers.
-
-📧 **Email:** [Shalinda1801@gmail.com](mailto:Shalinda1801@gmail.com)
-💬 **WhatsApp:** [Message Me](https://wa.me/94778637492)
+### 💬 “Keep learning. Keep building. Keep improving.”
 
 </div>
 
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my GitHub profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-
-</div>
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6366f1,50:0ea5e9,100:0f172a"/>
